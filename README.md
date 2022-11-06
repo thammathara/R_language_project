@@ -1,3 +1,3 @@
-Rock-Paper-Scissors Game 
+### R language
  
-A basic rock-paper-scissor game written in the R language
+I created a basic rock-paper-scissor game by using the R language
