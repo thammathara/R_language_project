@@ -8,4 +8,4 @@
 
 <br>**Web Scraping.pdf** - I scraped the top 100 IMDb movies by rating from the official IMDB website and the Samsung smart phone specs from the SpecPhone website by using rvest in the R language.
 
-<br>**Web Scraping.pdf** - I analyzed data about airplane flights in New York in 2013 and also created some visualizations using ggplot.
+<br>**Data Analysis Flights NYC 2013.pdf** - I analyzed data about airplane flights in New York in 2013 and also created some visualizations using ggplot.
